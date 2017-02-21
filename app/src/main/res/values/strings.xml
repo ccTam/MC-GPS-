@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MC_AndroidGPS</string>
+    <string name="sLon">Longitude:</string>
+    <string name="sLonValue"></string>
+    <string name="sLat">\nLatitude:</string>
+    <string name="sLatValue"></string>
+    <string name="sAlt">\nAltitude:</string>
+    <string name="sAltValue"></string>
+
+</resources>
